@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <>
+git clone <https://github.com/beaslis/ReactProject>
 cd react-project
 Install dependencies:
 npm install
